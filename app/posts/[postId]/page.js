@@ -6,7 +6,7 @@ export default async function PostDetailsPage({ params }) {
 
     const loadingJSX = (
         <div>
-            <h2>Loading...</h2>
+            <h2>wait...</h2>
         </div>
     )
 
